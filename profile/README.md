@@ -1,1 +1,1 @@
-<img src="https://github.com/myparcelasia/.github/blob/master/output.gif" alt="MyParcel Asia">
+<img src="https://github.com/myparcelasia/.github/blob/main/profile/output.gif" alt="MyParcel Asia">
